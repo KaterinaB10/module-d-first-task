@@ -6,8 +6,10 @@ function App() {
   return (
     <>
       <header className="header">
-        <NavBar />
-        <UserAccount />
+        <div className="nav-container">
+          <NavBar className="main-nav-btns-container" />
+          <UserAccount />
+        </div>
       </header>
       <main className="main"></main>
       <footer className="footer"></footer>

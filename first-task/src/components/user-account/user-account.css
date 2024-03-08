@@ -1,7 +1,14 @@
+.user-account-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .user-title-container p {
   color: #fbf4e3;
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 600;
-  font-size: 1.2rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 1.15rem;
+  padding: 0 1em;
 }

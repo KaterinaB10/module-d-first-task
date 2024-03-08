@@ -5,3 +5,9 @@
   background-position-y: 15%;
   background-repeat: no-repeat;
 }
+
+.nav-container {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
