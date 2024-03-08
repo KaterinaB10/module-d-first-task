@@ -10,4 +10,31 @@
   display: flex;
   justify-content: right;
   align-items: center;
+  padding: 2em 1.5em;
+}
+
+.main-nav-btns-container {
+  margin: 0 15em;
+}
+
+.header-title {
+  display: flex;
+  flex-direction: column;
+  margin: 2.5em 0em 0em 6em;
+  color: #fbf4e3;
+  text-shadow: 0px 0px 10px rgba(67, 30, 4, 0.349);
+}
+
+.title-line-up {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-size: 3rem;
+}
+
+.title-line-down {
+  font-family: "Inter", sans-serif;
+  font-size: 5.6rem;
+  font-weight: 700;
+  margin-top: -0.2em;
 }

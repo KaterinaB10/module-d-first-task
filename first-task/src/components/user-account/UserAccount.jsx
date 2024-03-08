@@ -9,7 +9,7 @@ export function UserAccount() {
           <img src={icon} alt="icon" />
         </div>
         <div className="user-title-container">
-          <p>Account</p>
+          <p>My Account</p>
         </div>
       </div>
     </section>

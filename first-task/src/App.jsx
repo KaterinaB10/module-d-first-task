@@ -7,9 +7,15 @@ function App() {
     <>
       <header className="header">
         <div className="nav-container">
-          <NavBar className="main-nav-btns-container" />
+          <div className="main-nav-btns-container">
+            <NavBar />
+          </div>
           <UserAccount />
         </div>
+        <title className="header-title">
+          <h2 className="title-line-up">Delicious</h2>
+          <h1 className="title-line-down">COFFEE</h1>
+        </title>
       </header>
       <main className="main"></main>
       <footer className="footer"></footer>
