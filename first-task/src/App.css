@@ -1,8 +1,8 @@
 .header {
   height: 60vh;
-  background-image: url(./assets/images/2150691727.jpg);
+  background-image: url(./assets/images/header.jpg);
   background-size: 100%;
-  background-position-y: 15%;
+  background-position: bottom cover;
   background-repeat: no-repeat;
 }
 

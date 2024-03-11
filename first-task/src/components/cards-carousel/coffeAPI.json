@@ -5,7 +5,7 @@
       "title": "Cappuccino",
       "volume": "180 ml",
       "description": "A coffee-based drink made with espresso, hot milk and steamed milk froth",
-      "picture": "../../assets/images/png.png"
+      "picture": "/images/png.png"
     },
     {
       "id": "2",
