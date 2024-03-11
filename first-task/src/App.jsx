@@ -1,6 +1,7 @@
 import "./App.css";
 import { NavBar } from "./components/nav-bar/NavBar";
 import { UserAccount } from "./components/user-account/UserAccount";
+import { Card } from "./components/cards-carousel/Card";
 
 function App() {
   return (
@@ -17,7 +18,11 @@ function App() {
           <h1 className="title-line-down">COFFEE</h1>
         </title>
       </header>
-      <main className="main"></main>
+      <main className="main">
+        <div className="cards">
+          <Card />
+        </div>
+      </main>
       <footer className="footer"></footer>
     </>
   );
