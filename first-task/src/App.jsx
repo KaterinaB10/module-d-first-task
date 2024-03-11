@@ -8,10 +8,13 @@ function App() {
     <>
       <header className="header">
         <div className="nav-container">
+          <div className="logo-container"></div>
           <div className="main-nav-btns-container">
             <NavBar />
           </div>
-          <UserAccount />
+          <div className="user-account-container">
+            <UserAccount />
+          </div>
         </div>
         <title className="header-title">
           <h2 className="title-line-up">Delicious</h2>
@@ -22,6 +25,9 @@ function App() {
         <div className="cards">
           <Card />
         </div>
+        <section></section>
+        <section id="menu"></section>
+        <section></section>
       </main>
       <footer className="footer"></footer>
     </>

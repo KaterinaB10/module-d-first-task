@@ -5,12 +5,12 @@ export function NavBar() {
     <section className="nav-bar-section">
       <ul className="nav-bar-container">
         <li className="nav-btn-container">
-          <a href="" className="nav-btn">
+          <a href="about" className="nav-btn">
             About us
           </a>
         </li>
         <li className="nav-btn-container">
-          <a href="" className="nav-btn">
+          <a onClick={console.log("clicked")} href="#menu" className="nav-btn">
             Menu
           </a>
         </li>

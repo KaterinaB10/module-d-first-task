@@ -11,37 +11,43 @@
       "id": "2",
       "title": "Latte Macchiato",
       "volume": "370 ml",
-      "description": "The latte macchiato is made of several elements: milk, milk foam and espresso"
+      "description": "The latte macchiato is made of several elements: milk, milk foam and espresso",
+      "picture": "/images/png.png"
     },
     {
       "id": "3",
       "title": "Mocaccino",
       "volume": "200 ml",
-      "description": "The mocaccino, also called a “mochaccino” or even “mokaccino”, is a drink made with cappuccino, cream and hot chocolate"
+      "description": "The mocaccino, also called a “mochaccino” or even “mokaccino”, is a drink made with cappuccino, cream and hot chocolate",
+      "picture": "/images/png.png"
     },
     {
       "id": "4",
       "title": "Flat white",
       "volume": "180ml",
-      "description": "A flat white is an espresso with a coffee to milk ratio similar to a latte and a cappuccino"
+      "description": "A flat white is an espresso with a coffee to milk ratio similar to a latte and a cappuccino",
+      "picture": "/images/png.png"
     },
     {
       "id": "5",
       "title": "Espresso Macchiato",
       "volume": "50 ml",
-      "description": "Is an espresso topped with a small amount of milk and milk foam, similar to a cappuccino, but with a stronger flavour"
+      "description": "Is an espresso topped with a small amount of milk and milk foam, similar to a cappuccino, but with a stronger flavour",
+      "picture": "/images/png.png"
     },
     {
       "id": "6",
       "title": "Americano",
       "volume": "150 ml",
-      "description": "It is made by filling a cup with hot water and adding in the aforementioned amount of espresso"
+      "description": "It is made by filling a cup with hot water and adding in the aforementioned amount of espresso",
+      "picture": "/images/png.png"
     },
     {
       "id": "7",
       "title": "Irish Coffee",
       "volume": "180 ml",
-      "description": "It is made using filtered coffee, brown sugar and cream."
+      "description": "It is made using filtered coffee, brown sugar and cream",
+      "picture": "/images/png.png"
     }
   ]
 }
