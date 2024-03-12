@@ -10,7 +10,7 @@ export function NavBar() {
           </a>
         </li>
         <li className="nav-btn-container">
-          <a onClick={console.log("clicked")} href="#menu" className="nav-btn">
+          <a href="#menu" className="nav-btn">
             Menu
           </a>
         </li>

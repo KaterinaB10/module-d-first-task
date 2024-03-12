@@ -5,49 +5,98 @@
       "title": "Cappuccino",
       "volume": "180 ml",
       "description": "A coffee-based drink made with espresso, hot milk and steamed milk froth",
-      "picture": "/images/png.png"
+      "picture": "/images/1.jpg"
     },
     {
       "id": "2",
       "title": "Latte Macchiato",
       "volume": "370 ml",
       "description": "The latte macchiato is made of several elements: milk, milk foam and espresso",
-      "picture": "/images/png.png"
+      "picture": "/images/1.jpg"
     },
     {
       "id": "3",
       "title": "Mocaccino",
       "volume": "200 ml",
       "description": "The mocaccino, also called a “mochaccino” or even “mokaccino”, is a drink made with cappuccino, cream and hot chocolate",
-      "picture": "/images/png.png"
+      "picture": "/images/3.jpg"
     },
     {
       "id": "4",
       "title": "Flat white",
       "volume": "180ml",
       "description": "A flat white is an espresso with a coffee to milk ratio similar to a latte and a cappuccino",
-      "picture": "/images/png.png"
+      "picture": "/images/1.jpg"
     },
     {
       "id": "5",
       "title": "Espresso Macchiato",
       "volume": "50 ml",
       "description": "Is an espresso topped with a small amount of milk and milk foam, similar to a cappuccino, but with a stronger flavour",
-      "picture": "/images/png.png"
+      "picture": "/images/1.jpg"
     },
     {
       "id": "6",
       "title": "Americano",
       "volume": "150 ml",
       "description": "It is made by filling a cup with hot water and adding in the aforementioned amount of espresso",
-      "picture": "/images/png.png"
+      "picture": "/images/3.jpg"
     },
     {
       "id": "7",
       "title": "Irish Coffee",
       "volume": "180 ml",
       "description": "It is made using filtered coffee, brown sugar and cream",
-      "picture": "/images/png.png"
+      "picture": "/images/1.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Cappuccino",
+      "volume": "180 ml",
+      "description": "A coffee-based drink made with espresso, hot milk and steamed milk froth",
+      "picture": "/images/1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Latte Macchiato",
+      "volume": "370 ml",
+      "description": "The latte macchiato is made of several elements: milk, milk foam and espresso",
+      "picture": "/images/3.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Mocaccino",
+      "volume": "200 ml",
+      "description": "The mocaccino, also called a “mochaccino” or even “mokaccino”, is a drink made with cappuccino, cream and hot chocolate",
+      "picture": "/images/1.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Flat white",
+      "volume": "180ml",
+      "description": "A flat white is an espresso with a coffee to milk ratio similar to a latte and a cappuccino",
+      "picture": "/images/1.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Espresso Macchiato",
+      "volume": "50 ml",
+      "description": "Is an espresso topped with a small amount of milk and milk foam, similar to a cappuccino, but with a stronger flavour",
+      "picture": "/images/3.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Americano",
+      "volume": "150 ml",
+      "description": "It is made by filling a cup with hot water and adding in the aforementioned amount of espresso",
+      "picture": "/images/1.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Irish Coffee",
+      "volume": "180 ml",
+      "description": "It is made using filtered coffee, brown sugar and cream",
+      "picture": "/images/1.jpg"
     }
   ]
 }
