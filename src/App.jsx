@@ -2,6 +2,7 @@ import "./App.css";
 import { NavBar } from "./components/nav-bar/NavBar";
 import { UserAccount } from "./components/user-account/UserAccount";
 import { Card } from "./components/cards-carousel/Card";
+import { CardMenu } from "./components/menu-card/CardMenu";
 
 function App() {
   return (
@@ -43,7 +44,9 @@ function App() {
             referrerPolicy="no-referrer-when-downgrade"
           ></iframe> */}
         </section>
-        <section id="menu"></section>
+        <section id="menu" className="menu">
+          <CardMenu />
+        </section>
         <section></section>
       </main>
       <footer className="footer"></footer>
