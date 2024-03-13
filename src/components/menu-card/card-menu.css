@@ -18,6 +18,8 @@
   background-size: cover;
   background-position: bottom;
   /*  TO FIX LATER */
+
+  position: relative;
 }
 
 .card-price-container {
